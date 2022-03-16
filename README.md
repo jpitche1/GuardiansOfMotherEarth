@@ -1,4 +1,4 @@
-# GuardiansOfMotherEarth
+# Guardians Of Mother Earth
 
 Guardians of Mother Earth is a scrolling shooter developed for a game design class project at UNCC as a collaborative effort from Donovan Weldon, Aaron Burgin, Jasmin Pitcher, and Martin Cullen. 
 
